@@ -77,5 +77,5 @@ This dashboard monitors **downtime**, **machine utilization**, and overall **pro
 
 ---
 https://github.com/afnanm33/Adventure-Works-Dashboard/blob/main/a1.png
-
+https://github.com/afnanm33/Adventure-Works-Dashboard/blob/main/a2.png
 
